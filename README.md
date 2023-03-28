@@ -6,10 +6,10 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su9130)](https://solved.ac/su9130/)
 
-
+<!-- 
 ![Sujin Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkhairlove&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhairlove&langs_count=10&layout=compact&theme=dark)](https://github.com/darkhairlove)
-
+ -->
 
 
 # :mailbox_with_mail: Contacts
