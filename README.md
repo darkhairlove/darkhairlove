@@ -16,9 +16,7 @@
 
 # :mailbox_with_mail: Contacts
 ✏️ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://darkhairlove.github.io/)](https://darkhairlove.github.io/)  
-
 📌 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suqkr12@gmail.com)](mailto:suqkr12@gmail.com)  
-
 💭 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujin%20Park-blue?style=for-the-badge&logo=linkedin)](https://kr.linkedin.com/in/sujin-park-data-darkhair)
 
 
